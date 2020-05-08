@@ -1,6 +1,6 @@
 # Aula 03
 
-Na aula de hoje vamos continuar a desenvolver o nosso site, aprendendo novas tags. Hoje veremos a importância da tag <meta>, bem como seu uso dentro do documento HTML. Veremos também como inserir os elementos básicos estruturais de um site do HTML5 (<header>, <nav>, <section>, <article>, <aside> , e <footer>). Por fim, aprenderemos como inserir  imagens (<img>), links (<a>) e citações (<blockquote>).
+Na aula de hoje vamos continuar a desenvolver o nosso site, aprendendo novas tags. Hoje veremos a importância da tag meta, bem como seu uso dentro do documento HTML. Veremos também como inserir os elementos básicos estruturais de um site do HTML5 (header, nav, section, article, aside , e footer). Por fim, aprenderemos como inserir  imagens (img), links (a) e citações (blockquote).
 
 Ao final da aula, irei disponibilizar o material da disciplina para estudo individual (a aula 1 e 2 do material oficial) e vamos continuar desenvolvendo o nosso site, inserindo as tags aprendidas na aula de hoje nele, em uma nova atividade.
 
